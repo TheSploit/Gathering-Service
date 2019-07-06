@@ -291,7 +291,7 @@ if ($pilih == '--GPS' || $pilih == '--gps') {
 
 }elseif($pilih == '--PHISING' || $pilih == '--phising'){
 	
-	echo "\n(1). Facebook \n[+] Masih di Update Gan !!!";
+	echo "\n(1). Facebook \n[+] Maaf Sementara Tools Ini Belum Bisa DIgunakan !!!";
 
 	echo "\n\n Masukan Pilihan : > ";
 	$opsi = trim(fgets(STDIN));
