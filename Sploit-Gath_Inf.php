@@ -56,7 +56,7 @@ function tampil($version)
 
 Author   : ⊱XͭPͪLͤᗝIƬ༻₁₀₀ᵏ - { Sollo No Team }
 Contact  : 081316577616
-FansPage : https://www.facebook.com/IndoSecOfficial/
+Blogger : https://myamazingapk.blogspot.com
 
 	--GPS  --IP  --PHISING --exit
  > ";
